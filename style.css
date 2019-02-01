@@ -114,6 +114,7 @@
 		background-color:rgb(0,0,0);
 		color:rgb(255,255,255);
 		border-color:rgb(90,90,90);
+		-webkit-transition:1s;
 	}
 	button.index_end:hover{
 		background-color:rgb(255,255,255);
